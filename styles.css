@@ -16,62 +16,11 @@ h1 {
 }
 
 .sidebar__navigation {
-    border-radius: 8px;
-    padding: 16px 0 0 16px;
-}
-
-.sidebar__navigation div {
     background-color: #121212;
-}
-
-.sidebar__navigation .logo {
-    background: #121212;
-    display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
 
 .logo img {
     width: 80px;
-}
-
-.sidebar nav ul {
-    margin-top: 20px;
-    padding: 0 20px 10px 20px;
-}
-
-.sidebar ul li {
-    padding: 10px 0;
-}
-
-.sidebar nav ul li a {
-    color: #b3b3b3;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 14px;
-    font-family: "DM Sans", sans-serif;
-}
-
-.library {
-    display: flex;
-    justify-content: space-between;
-}
-
-.fa-plus {
-    color: #b3b3b3;
-}
-
-.playlist {
-    padding: 0 20px 10px 20px;
-    background-color: #dadada;
-}
-
-.playlist h2 {
-    color: #b3b3b3;
-    font-weight: bold;
-    line-height: 40px;
-}
-
-.playlist h3 {
-    color: #b3b3b3;
 }
