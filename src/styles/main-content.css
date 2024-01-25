@@ -71,3 +71,21 @@
     white-space: nowrap;
     outline: none;
 }
+
+.header__login .subscribe {
+    color: #a7a7a7;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: transparent;
+    margin-right: 32px;
+    border: none;
+}
+
+.header__login .login {
+    width: 100px;
+    height: 48px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 40px;
+}
