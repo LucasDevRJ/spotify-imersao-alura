@@ -29,6 +29,36 @@
       "name": "Nirvana",
       "genre": "Rock",
       "urlImg": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b"
+    },
+    {
+      "id": 6,
+      "name": "Fresno",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb92bd324ad54568c253aaeeee"
+    },
+    {
+      "id": 7,
+      "name": "Coldplay",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3"
+    },
+    {
+      "id": 8,
+      "name": "Harry Styles",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb"
+    },
+    {
+      "id": 9,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 10,
+      "name": "Maroon 5",
+      "genre": "Pop",
+      "urlImg": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evNZY5NHq-default.jpg"
     }
   ]
 }
